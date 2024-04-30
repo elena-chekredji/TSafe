@@ -1,2 +1,14 @@
 # TSafe
-An app that uses GPS technology to help people navigate the safest routes to their destination in Toronto. The app will provide real-time updates on crime data and other safety risks to help users make informed decisions about their routes. 
+
+## Overview
+TSafe is a web application designed to enhance personal safety in Toronto by guiding users along the safest possible routes. 
+Using GPS technology integrated with real-time crime data and safety statistics, TSafe helps users make informed decisions about their travel routes.
+
+## Features
+- **Real-Time Safety Data**: Integrates real-time updates on crime statistics and safety risks.
+- **GPS Navigation**: Offers GPS-based route suggestions to ensure the safest travel paths.
+- **User Accounts**: Allows users to create accounts, save frequent routes, and receive personalized updates.
+- **Interactive Maps**: Features interactive maps (Google Maps) for easy navigation and route planning.
+
+## Technology Stack
+- **HTML/CSS**: For structuring and styling the application.
